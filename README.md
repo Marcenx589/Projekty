@@ -1,1 +1,1 @@
-Służy do przechowywania projektów oraz elementów związanych z tym
+Służy do przechowywania projektów oraz elementów związanych z nim
